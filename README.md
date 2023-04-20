@@ -1,10 +1,12 @@
 # UniFinalYearProject
 
-Project Title - IoT based Hydroponic Deep-Water Culture (DWC) Monitoring System and Plant Condition Prediction using CNN
+Project Title
+IoT based Hydroponic Deep-Water Culture (DWC) Monitoring System and Plant Condition Prediction using CNN
 
-Projetc Involed - Internet of Things and Machine Learning
+Projetc Involed
+Internet of Things and Machine Learning Implementation
 
-Project Objectives - 
+Project Objectives 
 i.  To create and build a cost-efficient, indoor-suitable prototype hydroponic monitoring system.
 ii. To integrate the Internet of Things sensors on the system to measure the water's nutritional content, temperature, and air humidity & temperature.
 iii.To integrate a machine learning-based system to predict the health and growth rate of the hydroponic plants.
